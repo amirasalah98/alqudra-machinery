@@ -1,0 +1,312 @@
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<META Name="keywords" CONTENT="Used Building Machinery, Used Building Equipments, Plant, Equipments, Machinery, Used, Dubai, Sharjah, UAE, Middle East, Gulf, Hire, Sale">
+<META Name="description" Content="leading construction plant & machinery suppliers in Dubai, United Arab Emirates (UAE), situated Sharjah Industrial area and deals with Machinery Sales / Hire / Sale including all types of New & Used Building Machines & Equipments.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alqudra Formwork & Scaffolding</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body >
+
+<header class="first-header">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div class="container d-flex w-100">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon">
+              </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 w-100 justify-content-center">
+                <li class="nav-item">
+                  <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a href="Building_equipments_Services.htm" class="nav-link">Services</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a href="Construction_Equipments_Products.php" class="nav-link">Products</a>
+                </li> -->
+                <li class="nav-item">
+                  <a href="Construction_Equipments_Contact.html" class="nav-link">Contact</a>
+                </li>
+                <li class="nav-item">
+                  <a href="Construction_Equipments_RoutMap.htm" class="nav-link">Sales</a>
+                </li>
+                <li class="nav-item aboutUs">
+                  <a href="about-us.html" class="nav-link">About us</a>
+                </li>
+            </ul>
+            </div>
+          </div>
+        </nav>
+</header>
+<header class="second-header">
+    <div class="container d-none d-md-block">
+        <div class="row ">
+            <div class="col-md-4 logo d-flex justify-content-center "><img src="newImages/logo.png" alt="" width="100"></div>
+            <div class="col-md-4 d-flex align-items-center row " style="text-align: center;height: 100px;">
+              <div class="col-md-12"> <b style="color: #141447;" > Tel/Whatsapp -</b><span> 971561888019 </span></br></div>
+              <div class="col-md-12"><b style="color: #141447;"> Email -</b><span> mail@alqudrah-machinery.com</span></div>
+            </div>
+            <div class="col-md-4 d-flex justify-content-center align-items-center " style="height: 100px;"><b style="color: #141447;">Sharjah </br>( UAE )</b></div>
+        </div>
+    </div>
+    <div class="container d-md-none  d-sm-block">
+      <div class="row second-header-sm">
+          <div class="col-md-4 logo d-flex justify-content-center "><img src="newImages/logo.png" alt="" width="80"></div>
+          <div class="col-md-4 d-flex align-items-center row " style="text-align: center;">
+            <div class="col-md-12 "> <b style="color: #141447;" > Tel/Whatsapp -</b><span> 971561888019 </span></br></div>
+            <div class="col-md-12 "><b style="color: #141447;"> Email -</b><span> mail@alqudrah-machinery.com</span></div>
+          </div>
+          <div class="col-md-4 d-flex justify-content-center align-items-center " style="height: 100px;"><b style="color: #141447;">Sharjah </br>( UAE )</b></div>
+      </div>
+  </div>
+</header>
+<section class="bg-sec d-none d-md-block " style="background-image:url(newImages/background1.png);background-repeat: no-repeat;background-size: cover;">
+  <div class="bg-sec-color ">
+      <div class="container bg-sec-details p-5"  >
+     <div class="row align-items-center d-flex align-items-start flex-column" >
+        <h1 class=" d-flex justify-content-end col" >Welcome To Alqudra</h1>
+        <p><span  class=" d-flex justify-content-end col" >For Form works, Scaffolding and construction machinery.</span></p>
+        <div class=" d-flex justify-content-end " ><a href="about-us.html" type="button" value="Read More">Read More</a></div>
+      </div>
+      </div>
+  </div>
+  </section>
+  <section class="bg-sec-sm d-md-none  d-sm-block " style="background-image:url(newImages/background1.png);background-repeat: no-repeat;">
+    <div class="bg-sec-color-sm" style="background-color: rgba(113, 114, 150, 0.678);
+    ">
+        <div class="container bg-sec-details-sm p-4"  >
+       <div class="" >
+          <h1 class=" " >Welcome To Alqudra</h1>
+          <p><span  class=" " >For Form works, Scaffolding and construction machinery.</span></p>
+          <div class=" " ><a href="about-us.html" type="button" value="Read More">Read More</a></div>
+        </div>
+        </div>
+    </div>
+    </section>
+    <section class=" d-none d-md-block ">
+      <div class="d-flex justify-content-center"  >
+      <video style="width: 100%;" controls>
+        <source src="newImages/al qudra_website (1).mp4" type="video/mp4">
+        <source src="movie.ogg" type="video/ogg">
+      Your browser does not support the video tag.
+      </video>
+    </div>
+    </section>
+
+    <section class="d-md-none  d-sm-block d-flex justify-content-center">
+      <video class="" style="width: 100%;" controls>
+        <source src="newImages/al qudra_website (1).mp4" type="video/mp4">
+        <source src="movie.ogg" type="video/ogg">
+      Your browser does not support the video tag.
+      </video>
+    </section>
+    <section class="bg-sec2">
+      <div class="container ">
+          <h1 class="row d-flex justify-content-center">Alqudra Equipment</h1>
+          <p class="row d-flex justify-content-center">All the building machines and good quality scaffolding items are being sold and satisfying the customer's needs under one roof.</p>
+          <div class="row d-flex justify-content-center">
+            <div class="col-md-3 bg-sec2-all">
+              <img src="newImages/3.png" alt="" class="col-md-12 d-none d-md-block bg-sec2-img">
+              <img src="newImages/3.png" alt="" class="col-sm-12 d-md-none d-sm-block bg-sec2-img-sm">
+
+              <h3 class="col-md-12">Alqudra Equipment</h3>
+              <p class="col-md-12">We provide Column formwork, Coup lock scaffolding and Machinery items.</p>
+            </div>
+            <div class="col-md-3 bg-sec2-all">
+              <img src="newImages/11.png" alt="" class="col-md-12 d-none d-md-block bg-sec2-img">
+              <img src="newImages/11.png" alt="" class="col-sm-12 d-md-none d-sm-block bg-sec2-img-sm">
+
+              <h3 class="col-md-12">Used Equipment Sales</h3>
+              <p class="col-md-12">All the building machines and good quality scaffolding items are being sold and satisfying the customer's needs under one roof.</p>
+            </div>
+            <div class="col-md-3 bg-sec2-all">
+              <img src="newImages/27.png" alt="" class="col-md-12 d-none d-md-block bg-sec2-img">
+              <img src="newImages/27.png" alt="" class="col-sm-12 d-md-none d-sm-block bg-sec2-img-sm">
+
+              <h3 class="col-md-12">New Equipment Sales</h3>
+              <p class="col-md-12">Most of the equipment is kept in good condition and is replaced on a frequent basis to provide Clients with the most modern and trouble free machinery for their projects.</p>
+            </div>
+            <div class="col-md-3 bg-sec2-all">
+              <img src="newImages/12.png" alt="" class="col-md-12 d-none d-md-block bg-sec2-img">
+              <img src="newImages/12.png" alt="" class="col-sm-12 d-md-none d-sm-block bg-sec2-img-sm">
+              <h3 class="col-md-12">Learn About Us</h3>
+              <p class="col-md-12">Al Qudra Building Metalic Const . Ind . L.L.C is your one stop for your entire construction , machinery requirements and qualified used heavy equipment.</p>
+            </div>
+          </div>
+      </div>
+  </section>
+
+
+  <section>
+    <div class="container  d-none d-xl-block pt-5">
+      <div class="d-flex ">
+        <div class="p-3 w-100">
+          <h4 style="color:rgb(211, 158, 44);">Column Formwork 
+            and Wall panels</h4>
+          <p> We manufacture column form work and wall panel .we have Panela. We have panls with ply wood.</p>
+        </div>
+        <div class="p-3 w-100">
+          <h4 style="color:rgb(211, 158, 44);">Cup Lock 
+            Scaffolding</h4>
+          <p>We have most running 
+            products of scaffolding-standard, ledger, 
+            decking beam, infill 
+            beam, prop jack, H 
+            Frame, wooden plank, 
+            marine plywood, 
+            couplers.</p>
+        </div>
+        <div class="p-3">
+          <h4 style="color:rgb(211, 158, 44);">Scaffolding 
+            Machinery</h4>
+          <p>We also supply the relative 
+            machinery to clients in this 
+            line. Ledger and Prop Jack 
+            welding Machine, Standard 
+            welding machine, Thread 
+            Rolling Machine is suitable 
+            to make Jack and Prop 
+            threads. Multi Driller 
+            Machine is specially 
+            designed to suit the purpose 
+            of drilling prop holes. Other 
+            machines are for a certain 
+            purpose. The life of 
+            machines can last over 25 
+            years, only the consumable 
+            parts needed to be replaced.</p>
+        
+        </div>
+        <div class="d-flex">
+        <div class="p-3">
+          <h4 style="color:rgb(211, 158, 44);">Construction 
+            Machinery</h4>
+          <p>We supply Compacting 
+            Machinery, Concrete 
+            Mixers, Breakers and 
+            Jack Hammers, Rebar 
+            Cutting and Bending 
+            Machines, Concrete 
+            Vibrators, Generators, 
+            Asphalt and Concrete 
+            Block Cutting Machines.</p>
+        </div>
+        <div class="p-3">
+          <h4 style="color:rgb(211, 158, 44);">Quality Used scaffolding & 
+            Construction Machinery</h4>
+          <p>Most of the scaffolding 
+            and equipments are 
+            kept in good condition 
+            and is replaced on a 
+            frequent basis to 
+            provide Clients with the 
+            most modern and 
+            trouble free machinery 
+            for their projects. The 
+            company has a team of 
+            dedicated operators and 
+            maintenance personnel.</p>
+        </div>
+      
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container d-xl-none  d-lg-block pt-3">
+      <div class="d-flex flex-wrap">
+        <div class="w-100">
+          <h4 style="color:rgb(211, 158, 44);">Column Formwork 
+            and Wall panels</h4>
+          <p> We manufacture column form work and wall panel .we have Panela. We have panls with ply wood.</p>
+        </div>
+        <div class="w-100">
+          <h4 style="color:rgb(211, 158, 44);">Cup Lock 
+            Scaffolding</h4>
+          <p>We have most running 
+            products of scaffolding-standard, ledger, 
+            decking beam, infill 
+            beam, prop jack, H 
+            Frame, wooden plank, 
+            marine plywood, 
+            couplers.</p>
+        </div>
+        <div class="w-100">
+          <h4 style="color:rgb(211, 158, 44);">Scaffolding 
+            Machinery</h4>
+          <p>We also supply the relative 
+            machinery to clients in this 
+            line. Ledger and Prop Jack 
+            welding Machine, Standard 
+            welding machine, Thread 
+            Rolling Machine is suitable 
+            to make Jack and Prop 
+            threads. Multi Driller 
+            Machine is specially 
+            designed to suit the purpose 
+            of drilling prop holes. Other 
+            machines are for a certain 
+            purpose. The life of 
+            machines can last over 25 
+            years, only the consumable 
+            parts needed to be replaced.</p>
+        </div>
+        <div class="w-100">
+          <h4 style="color:rgb(211, 158, 44);">Construction 
+            Machinery</h4>
+          <p>We supply Compacting 
+            Machinery, Concrete 
+            Mixers, Breakers and 
+            Jack Hammers, Rebar 
+            Cutting and Bending 
+            Machines, Concrete 
+            Vibrators, Generators, 
+            Asphalt and Concrete 
+            Block Cutting Machines.</p>
+        </div>
+        <div class="w-100">
+          <h4 style="color:rgb(211, 158, 44);">Quality Used scaffolding & 
+            Construction Machinery</h4>
+          <p>Most of the scaffolding 
+            and equipments are 
+            kept in good condition 
+            and is replaced on a 
+            frequent basis to 
+            provide Clients with the 
+            most modern and 
+            trouble free machinery 
+            for their projects. The 
+            company has a team of 
+            dedicated operators and 
+            maintenance personnel.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="">
+  <div class="readMore-services mb-5 ">
+    <a href="Construction_Equipments_RoutMap.htm" type="button">Know More</a>
+  </div>
+</section>
+
+ 
+
+<p style="text-align: center;vertical-align: middle;padding:10px; height:50px;">All rights reserved, At Al Qudra, Sharjah, United Arab 
+    Emirates ( UAE )<br>
+    <br>
+</p>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
+</body>
+</html>
